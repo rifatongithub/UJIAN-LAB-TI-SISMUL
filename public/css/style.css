@@ -1,0 +1,110 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+    background-image: url('img/wallpaper.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.biodata-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: rgba(0, 0, 0, 0.904);
+    box-sizing: border-box;
+    box-shadow: 0 30px 40px rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+}
+
+.biodata-box h2 {
+    margin: 0 0 30px;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+}
+
+.biodata-box .inputan {
+    position: relative;
+}
+
+.biodata-box .inputan input {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    background: transparent;
+}
+
+.biodata-box .inputan label {
+    position: absolute;
+    top:0;
+    left: 0;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    pointer-events: none;
+    transition: .5s;
+}
+  
+.biodata-box .inputan input:focus ~ label,
+.biodata-box .inputan input:valid ~ label {
+    top: -20px;
+    left: 0;
+    color: #03e9f4;
+    font-size: 12px;
+}
+
+.inputandate label {
+    color: white;
+    padding-right: 4.2rem;
+    font-size: 16px;
+}
+
+.action {
+    margin-top: 2rem;
+}
+
+.action-button {
+    font: inherit;
+	font-size: 1.25rem;
+	padding: 1rem;
+	width: 100%;
+	font-weight: 500;
+	background-color: #6658d3;
+	border-radius: 6px;
+	color: #FFF;
+	border: 0;
+}
+
+.action-button:hover {
+    background-color: #340d7c;
+}
+
+.action-button-cancel {
+    font: inherit;
+	font-size: 1.25rem;
+    margin-top: 1rem;
+	padding: 1rem;
+	width: 100%;
+	font-weight: 500;
+	border-radius: 6px;
+    background-color: transparent;
+	color: #FFF;
+	border: 1;
+}
+
+.action-button-cancel:hover {
+    background-color: #eb781a;
+}

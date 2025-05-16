@@ -1,0 +1,54 @@
+CRITICAL - 2025-05-02 01:28:59 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\spark(45): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2025-05-02 03:45:05 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2025-05-02 03:56:22 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2025-05-02 03:56:25 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2025-05-02 03:56:26 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2025-05-02 03:56:26 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2025-05-02 03:56:26 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2025-05-02 03:56:26 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2025-05-02 03:56:26 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\Rifat Hidayatullah_4IA25\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}

@@ -1,0 +1,10 @@
+CRITICAL - 2021-12-22 12:24:43 --> Invalid file: pages/about.php
+#0 C:\xampp\htdocs\PraktikumPWEB\Catur Saputro\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/about.php')
+#1 C:\xampp\htdocs\PraktikumPWEB\Catur Saputro\system\Common.php(1092): CodeIgniter\View\View->render('pages/about', Array, true)
+#2 C:\xampp\htdocs\PraktikumPWEB\Catur Saputro\app\Controllers\Pages.php(20): view('pages/about', Array)
+#3 C:\xampp\htdocs\PraktikumPWEB\Catur Saputro\system\CodeIgniter.php(802): App\Controllers\Pages->about()
+#4 C:\xampp\htdocs\PraktikumPWEB\Catur Saputro\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 C:\xampp\htdocs\PraktikumPWEB\Catur Saputro\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\PraktikumPWEB\Catur Saputro\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\PraktikumPWEB\Catur Saputro\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}

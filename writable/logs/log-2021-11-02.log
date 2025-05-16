@@ -1,0 +1,241 @@
+CRITICAL - 2021-11-02 05:46:14 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Views\mahasiswa\index.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Common.php(1092): CodeIgniter\View\View->render('mahasiswa/index', Array, true)
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php(9): view('mahasiswa/index')
+#5 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#6 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-02 05:46:17 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Views\mahasiswa\index.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Common.php(1092): CodeIgniter\View\View->render('mahasiswa/index', Array, true)
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php(9): view('mahasiswa/index')
+#5 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#6 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-02 05:48:06 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Views\mahasiswa\index.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Common.php(1092): CodeIgniter\View\View->render('mahasiswa/index', Array, true)
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php(9): view('mahasiswa/index')
+#5 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#6 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-02 05:48:12 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Views\mahasiswa\index.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Common.php(1092): CodeIgniter\View\View->render('mahasiswa/index', Array, true)
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php(9): view('mahasiswa/index')
+#5 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#6 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-02 05:48:38 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Views\mahasiswa\index.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Common.php(1092): CodeIgniter\View\View->render('mahasiswa/index', Array, true)
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php(9): view('mahasiswa/index')
+#5 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#6 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-02 05:48:39 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Views\mahasiswa\index.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Common.php(1092): CodeIgniter\View\View->render('mahasiswa/index', Array, true)
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php(9): view('mahasiswa/index')
+#5 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#6 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-02 05:54:44 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Views\mahasiswa\index.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Common.php(1092): CodeIgniter\View\View->render('mahasiswa/index', Array, true)
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php(9): view('mahasiswa/index')
+#5 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#6 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-11-02 05:59:58 --> Invalid file: layout/navbar.php
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/navbar.p...')
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(432): CodeIgniter\View\View->render('layout/navbar', NULL, true)
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Views\layout\template.php(17): CodeIgniter\View\View->include('layout/navbar')
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\PraktikumPWEB\pert3\system\View\View.php(230): CodeIgniter\View\View->render('layout/template', Array, true)
+#6 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Common.php(1092): CodeIgniter\View\View->render('mahasiswa/index', Array, true)
+#7 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php(9): view('mahasiswa/index')
+#8 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#9 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#10 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2021-11-02 06:40:48 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-02 06:42:54 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-02 06:42:55 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-02 06:44:06 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-02 06:44:18 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-02 06:44:31 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-02 06:44:32 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-02 06:45:46 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-02 06:46:09 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-02 06:46:11 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->index()
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-11-02 06:59:30 --> Argument 1 passed to url_title() must be of the type string, null given, called in C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php on line 30
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php(30): url_title(NULL, '-', true)
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->save()
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-02 07:00:20 --> Argument 1 passed to url_title() must be of the type string, null given, called in C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php on line 30
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php(30): url_title(NULL, '-', true)
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->save()
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-02 07:00:34 --> Argument 1 passed to url_title() must be of the type string, null given, called in C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php on line 30
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php(30): url_title(NULL, '-', true)
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->save()
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-02 07:03:10 --> Argument 1 passed to url_title() must be of the type string, null given, called in C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php on line 30
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php(30): url_title(NULL, '-', true)
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->save()
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-02 07:03:41 --> Argument 1 passed to url_title() must be of the type string, null given, called in C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php on line 30
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php(30): url_title(NULL, '-', true)
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->save()
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-02 07:05:56 --> Argument 1 passed to url_title() must be of the type string, null given, called in C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php on line 30
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php(30): url_title(NULL, '-', true)
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->save()
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-02 07:07:54 --> Argument 1 passed to url_title() must be of the type string, null given, called in C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php on line 30
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php(30): url_title(NULL, '-', true)
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->save()
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-02 07:08:10 --> Argument 1 passed to url_title() must be of the type string, null given, called in C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php on line 30
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php(30): url_title(NULL, '-', true)
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->save()
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-02 07:10:06 --> Argument 1 passed to url_title() must be of the type string, null given, called in C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php on line 30
+#0 C:\xampp\htdocs\PraktikumPWEB\pert3\app\Controllers\Mahasiswa.php(30): url_title(NULL, '-', true)
+#1 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(802): App\Controllers\Mahasiswa->save()
+#2 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#3 C:\xampp\htdocs\PraktikumPWEB\pert3\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\PraktikumPWEB\pert3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\PraktikumPWEB\pert3\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
